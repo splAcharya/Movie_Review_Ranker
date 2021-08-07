@@ -1,0 +1,33 @@
+{% extends "rater/base.html" %}
+
+
+{% block content %}
+
+  <div class="shadow-lg p-3 mb-5 bg-blue rounded gradient-border">
+
+    <div class="title">Moview Review Rating Overall: {{final_rating}}/10</div>
+    <div class="subtitle">Individual Predictions from 10 Classifiers: </div>
+
+    <ul class="list-group">
+      {% for name,sentiment in name_pred%}
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        {{name}}
+        <span class="badge badge-primary badge-pill" style="color:blue;font-weight:bold">{{sentiment}}</span>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <div style="text-align:center">
+      <a class="btn btn-outline-primary" href="{% url "home" %}">Click Here To Rate Another Review</button>
+    </div>
+
+  </div>
+    
+{% endblock %}
+
+
+
+
+
+
+
