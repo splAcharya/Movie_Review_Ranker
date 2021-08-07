@@ -14,7 +14,7 @@ The website: https://whispering-savannah-99810.herokuapp.com/<br/>
 Note: The above website will only be functional for a limited time. Since its only a hoby project.
 <br/>
 
-## Screenshots
+## Screenshots:
 
 ### Rating1: Input Review
 ![alt text](https://github.com/splAcharya/Movie_Review_Ranker/blob/main/Result_Images/1_Review.png)
