@@ -1,16 +1,16 @@
 # Movie_Review_Ranker
-A movie review ranking system, desiged using django and deployed in hereoku.
+A movie review ranking system, desiged using django and deployed in heroku.
 <br/>
 
 
 ## References:
 The Feature Extraction and Machine Learning research was done 
 in Jupyter Notebook sperately. The models used here are exported
-from that research. See this repository for  more info:
+from that research. See this repository for  more info: <br/>
 https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis
 <br/>
-How to deploy Python App Heroku: https://devcenter.heroku.com/articles/getting-started-with-python
-The website: https://whispering-savannah-99810.herokuapp.com/
+How to deploy Python App Heroku: https://devcenter.heroku.com/articles/getting-started-with-python<br/>
+The website: https://whispering-savannah-99810.herokuapp.com/<br/>
 Note: The above website will only be functional for a limited time. Since its only a hoby project.
 <br/>
 
