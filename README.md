@@ -10,6 +10,8 @@ from that research. See this repository for  more info:
 https://github.com/splAcharya/Imdb_Reviews_Sentiment_Analysis
 <br/>
 How to deploy Python App Heroku: https://devcenter.heroku.com/articles/getting-started-with-python
+The website: https://whispering-savannah-99810.herokuapp.com/
+Note: The above website will only be functional for a limited time. Since its only a hoby project.
 <br/>
 
 ## Screenshots
